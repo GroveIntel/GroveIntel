@@ -9,7 +9,7 @@
   
   [![Website](https://img.shields.io/badge/Website-groveintel.com-00D9FF?style=for-the-badge)](https://groveintel.com)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/company/grove-intelligence-bureau)
-  [![Email](https://img.shields.io/badge/Email-inquiries@groveintel.com-EA4335?style=for-the-badge&logo=gmail)](mailto:inquiries@groveintel.com)
+  [![Email](https://img.shields.io/badge/Email-inquiries@groveintel.com-EA4335?style=for-the-badge&logo=gmail)](mailto:GroveOrg@gmail.com)
 </div>
 
 ---
