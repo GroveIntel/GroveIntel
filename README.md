@@ -62,7 +62,7 @@ We believe in transparency and education. Explore our resources:
 **Ready to protect what matters?**
 
 - 🌐 Visit: [groveintel.com](https://groveintel.com)
-- 📧 Email: inquiries@groveintel.com
+- 📧 Email: GroveOrg@gmail.com
 - 📍 Location: Mobile, Alabama | Global Network
 
 ---
