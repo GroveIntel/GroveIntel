@@ -1,7 +1,7 @@
 # Grove Intelligence Bureau
 
 <div align="center">
-  <img src="https://your-logo-url.com/logo.png" alt="Grove Intelligence Bureau" width="200"/>
+  <img src="https://groveintel.com/logo.png" alt="Grove Intelligence Bureau" width="200"/>
   
   ### Intelligence That Protects
   
